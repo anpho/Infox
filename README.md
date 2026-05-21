@@ -1,0 +1,2 @@
+# Infox
+Get Apps Manifests
