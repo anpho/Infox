@@ -1,5 +1,5 @@
 # Infox
-Get Apps Manifests
+Get Apps Manifests, and write to Markdown.
 
 ## how to use
 
